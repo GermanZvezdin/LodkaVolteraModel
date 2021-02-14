@@ -1,6 +1,5 @@
 # LodkaVolteraModel
 
-![SpringSem_page-0001](https://user-images.githubusercontent.com/71877725/107887086-ab5d9c80-6f14-11eb-8753-a3b79153d4ab.jpg)
 ![SpringSem_page-0004](https://user-images.githubusercontent.com/71877725/107887090-b0bae700-6f14-11eb-8a19-93733ec6bf84.jpg)
 ![SpringSem_page-0005](https://user-images.githubusercontent.com/71877725/107887092-b284aa80-6f14-11eb-9cdb-57699f2482b5.jpg)
 ![SpringSem_page-0006](https://user-images.githubusercontent.com/71877725/107887093-b31d4100-6f14-11eb-962e-74fbf0dc0604.jpg)
